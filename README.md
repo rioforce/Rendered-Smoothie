@@ -1,4 +1,5 @@
-Rendered-Smoothie
+Rendered Smoothie
 =================
 
-A hosting for files for my Blender Tutorial site, [Rendered Smoothie.](http://renderedsmoothie.wordpress.com)
+In this repository, you will find downloads for the beginner and intermediate Blender tutorials I publish on
+[**Rendered Smoothie**](http://renderedsmoothie.wordpress.com).
